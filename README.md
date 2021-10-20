@@ -5,7 +5,7 @@ Your goal is to write a Python function to play a pulse pounding game of patienc
 
 When the player starts the program, it should print a message to wait a random amount of time, somwhere between 5 to 10 seconds. The player's goal is to wait the specified number of seconds and then press Enter again.
 
-### Currently set to 10-60 seconds.
+### Currently set to 10-60 seconds. Change these values for increased difficulty! 
 waitingTime = random.randint(10,60)
 
 ## Input
